@@ -1,13 +1,11 @@
 # Background-Changer-React
  
-I'd be glad to craft a compelling GitHub description for your React background changer, incorporating the best aspects of the provided responses and addressing potential shortcomings:
-
 **Immersive Background Changer with React**
 
 Transform your web pages with this interactive React application! This project allows you to:
 
 - **Effortlessly customize** the background of your website, creating a dynamic and engaging user experience.
-- **Pick from various options** (consider mentioning specific options you've implemented, e.g., solid colors, gradients, images).
+- **Pick from various colours**
 
 **Key Features:**
 
